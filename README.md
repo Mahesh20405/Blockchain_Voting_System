@@ -1,4 +1,4 @@
-# Blockchain Voting System
+# Decentralized Blockchain Voting System
 
 ## Project Overview
 This is a decentralized blockchain-based voting system implemented using Solidity for smart contracts and Node.js for the backend. The project provides a secure and transparent way to conduct voting using Ethereum blockchain technology.
